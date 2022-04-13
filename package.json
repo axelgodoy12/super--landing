@@ -1,0 +1,24 @@
+{
+  "name": "super-landing",
+  "version": "1.0.0",
+  "description": "landing page",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelgodoy12/super-landing.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "Axel Godoy <axel.godoy.122@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axelgodoy12/super-landing/issues"
+  },
+  "homepage": "https://github.com/axelgodoy12/super-landing#readme"
+}
